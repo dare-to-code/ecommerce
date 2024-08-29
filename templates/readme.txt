@@ -10,4 +10,4 @@ refresh database
 import json data file to product<ecommerce db
 //cd frontend
 npx create-react-app .
-npm.start
+npm start
