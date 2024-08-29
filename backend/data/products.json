@@ -1,0 +1,140 @@
+[{
+    "name": "Collapsible Water Bottles Leakproof 500ml (Blue)",
+    "price": 15.67,
+    "description": "Collapsible Water Bottles Leakproof Valve Reuseable BPA Free Silicone Foldable Travel Water Bottle for Gym Camping Hiking Travel Sports Lightweight Durable 500ml. Space-saving water bottles that can be folded down when empty, making them perfect for travel and outdoor activities.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/1.jpg"
+      }
+    ],
+    "category": "Water Bottles",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Smart Home Security Cameras",
+    "price": 50.32,
+    "description": "Mobile Connect With Security Camera. Compact, wireless, and easy-to-install cameras with features like AI detection, night vision, and cloud storage.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/2.jpg"
+      }
+    ],
+    "category": "Cameras",
+    "seller": "Flipkart",
+    "stock": 9
+  },
+  {
+    "name": "Dell Inspiron 3511 Laptop",
+    "price": 450.57,
+    "description": "Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English.",
+    "ratings": 2,
+    "images": [
+      {
+        "image": "/images/products/3.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "Bamboo Toothbrush (Pack of 2)",
+    "price": 4.45,
+    "description": "Biodegradable toothbrushes made from bamboo, a sustainable alternative to plastic toothbrushes, reducing environmental impact.",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/4.jpg"
+      }
+    ],
+    "category": "Everyday Essentials",
+    "seller": "Ebay",
+    "stock": 9
+  },
+  {
+    "name": "ASUS VivoBook 15 Laptop",
+    "price": 767.32,
+    "description": "ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/5.jpg"
+      }
+    ],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 4
+  },
+  {
+    "name": "Self Watering Pots for Indoor Plants, ETGLCOZY Pack of 4 (Gray)",
+    "price": 60.46,
+    "description": "Self Watering Pots for Indoor Plants, ETGLCOZY 4 Pack 4.1 Inch Flower Pot Modern Decorative Plastic Planter with Extra Large Water Storage for All House Plants, Flowers, Herbs(Gray). Planters that include a water reservoir and capillary system to automatically water plants, making them perfect for busy individuals or those new to gardening.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/6.jpg"
+      }
+    ],
+    "category": "Garden Essentials",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Campus Men's Maxico Running Shoes",
+    "price": 10.16,
+    "description": "The high raised back cover with extra padding.",
+    "ratings": 3,
+    "images": [
+      {
+        "image": "/images/products/7.jpg"
+      }
+    ],
+    "category": "Sports",
+    "seller": "Flipkart",
+    "stock": 6
+  },
+  {
+    "name": "Smart Watch for Men & Women - Spanish Gray",
+    "price": 10.12,
+    "description": "Smart Watch for Men & Women, Touch Screen Bluetooth Smart Watches for Android iOS Phones Wrist Phone Watch - Spanish Gray ID116 Smart Watch.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Watches",
+    "seller": "Amazon",
+    "stock": 2
+  },
+  {
+    "name": "Portable Picnic Blankets",
+    "price": 7.99,
+    "description": "Beach Blanket Picnic Blanket Sand Free Beach Mat Waterproof Lightweight 79 x 83Inch Foldable Portable Pocket Blanket Oversize Picnic Blanket Camping Mat for Outdoor Garden Park Grass Travel (Blue).",
+    "ratings": 4,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Garden Essentials",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Organic Makeup Remover Pads",
+    "price": 20.55,
+    "description": "Natural 100% Organic Cotton Pads for Face (16 Pack) Reusable Makeup Remover Pads for Sensitive Skin Biodegradable Chemical Free Cotton Rounds with Laundry Bag.",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Makeup Essentials",
+    "seller": "Amazon",
+    "stock": 4
+  }]
